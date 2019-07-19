@@ -15,10 +15,10 @@ import matplotlib.pyplot as plt
 #from scipy.sparse import hstack
 from mpl_toolkits import mplot3d
 
-#X1 = np.loadtxt('Xmedical.txt',delimiter=',').astype('float32')
-#Y = np.loadtxt('Ymedical.txt',delimiter=',').astype('float32')
-#X1 = np.loadtxt('Xyeast.txt',delimiter=',').astype('float32')
-#Y = np.loadtxt('Yyeast.txt',delimiter=',').astype('float32')
+#X1 = np.loadtxt('data/Xmedical.txt',delimiter=',').astype('float32')
+#Y = np.loadtxt('data/Ymedical.txt',delimiter=',').astype('float32')
+#X1 = np.loadtxt('data/Xyeast.txt',delimiter=',').astype('float32')
+#Y = np.loadtxt('data/Yyeast.txt',delimiter=',').astype('float32')
 #X1 = np.loadtxt('data/mn/X.txt',delimiter=',').astype('float32')
 #Y = np.loadtxt('data/mn/Y.txt',delimiter=',').astype('float32')
 #X1 = np.loadtxt('data/ppi/X.txt',delimiter=',').astype('float32')
