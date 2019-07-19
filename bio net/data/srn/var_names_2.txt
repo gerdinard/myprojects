@@ -1,0 +1,1685 @@
+ade1
+ade16
+ade2 (haploid)
+aep2
+afg3 (haploid)
+ald5
+anp1
+aqy2-a
+aqy2-b
+ard1
+"are1, are2 (haploid)"
+"arg5,6"
+arg80
+ase1 (**12)
+ate1
+bim1 (**15)
+bni1 (haploid)
+"bub1 (haploid **2,10)"
+bub2
+"bub3 (**2,8,13)"
+bub3 (haploid **2)
+bul1
+cat8
+cbp2
+cem1
+cin5
+cka2
+ckb2
+cla4 (haploid)
+clb2
+clb6
+cmk2
+"cna1, cna2 (haploid)"
+cnb1
+cue1
+cup5
+cyc2
+cyt1
+dfr1
+dig1 
+"dig1, dig2"
+"dig1, dig2 (haploid)"
+dig2
+dot4
+eca39
+ecm1 (**3)
+ecm10
+ecm18 (**7)
+ecm29
+ecm31
+ecm34
+eft2
+erd1
+erg2
+erg3 (haploid)
+erg4 (haploid **7)
+erg5
+erg6
+erp2
+erp4
+far1 (haploid)
+fks1 (haploid)
+fpr1
+fre6
+fus2
+fus3 (haploid)
+"fus3, kss1 (haploid)"
+gal83
+gas1
+gcn4
+gfd1
+gln3
+gpa2
+gyp1
+hat2
+hda1
+hdf1
+hes1 (haploid)
+hir2
+his1
+hmg1(haploid)
+hog1 (haploid)
+hpa3
+hpt1
+hst3
+imp2
+imp2' (**12)
+isw1
+"isw1, isw2"
+isw2
+jnm1
+kim4
+kin3
+kre1
+kss1 (haploid)
+mac1
+mad2
+mak10
+mbp1
+med2 (haploid)
+mnn1
+mrpl33
+mrt4
+msu1
+npr2
+nrf1
+nta1
+ost3
+pac2
+pau2
+pch1
+pcl6
+pep12 
+pet111
+pet117
+pet127
+pex12
+pfd2  (**14)
+phd1 (haploid)
+ppr1
+prb1
+qcr2 (haploid)
+rad27
+rad57
+rad6 (haploid)
+ras1
+ras1 (haploid)
+ras2 (haploid)
+rgt1
+rip1
+rml2 (**13)
+rnh1
+rnr1 (haploid **9)
+rpd3 (haploid)
+rpl12a
+rpl20a
+rpl27a (**4)
+rpl34a (**9)
+rpl6b
+rpl8a
+rps24a (**9)
+rps24a (haploid)
+rps27b (**11)
+rrp6
+rtg1
+rts1
+rvs161 (haploid)
+sap1
+sap18
+sap30
+sbh2
+sbp1
+scs7
+sgs1
+sgt2
+she4
+sin3
+sir1
+sir2
+sir3
+sir4
+sod1 (haploid)
+spf1
+ssn6 (haploid)
+sst2 (haploid)
+stb4
+ste11 (haploid)
+ste12 (haploid)
+ste18 (haploid)
+ste2 (haploid)
+ste20 (**11)
+ste24 (haploid)
+ste4 (haploid)
+ste5 (haploid)
+ste7 (haploid)
+swi4
+swi5
+swi6 (haploid)
+tec1 (haploid)
+tom6
+top1 (haploid)
+top3 (haploid)
+tup1 (haploid)
+ubp8
+ubr1
+ubr2
+utr4
+vac8
+vma8
+vps21
+vps8
+whi2
+yaf1
+yal004w
+yap1
+yap3
+yap7
+yar014c
+yar030c
+yea4
+yel001c
+yel008w
+yel010w
+yel020c
+yel028w
+yel033w
+yel044w
+yel047c
+yel059w
+yel067c
+yer002w
+yer024w
+yer030w
+yer033c
+yer034w
+yer041w
+yer044c (haploid)
+yer050c
+yer066c-a
+yer067c-a
+yer071c
+yer083c
+yer084w
+yer085c
+CMD1 (tet promoter)
+yhl013c
+yhl029c
+yhl042w
+yhl045w
+yhr011w (**14)
+yhr022c
+yhr031c
+yhr034c
+yhr039c
+yil037c (haploid)
+yil117c (haploid)
+yjl107c (haploid)
+yml003w
+yml005w
+yml011c
+yml018c
+yml033w
+yml034w
+ymr009w
+ymr010w
+ymr014w
+ymr025w
+ymr029c
+ymr030w
+ymr031c
+ymr031w-a
+ymr034c
+ymr040w
+ymr041c
+ymr044w
+ymr140w
+ymr141c
+ymr145c
+ymr147w
+ymr187c
+ymr237w
+ymr244c-a
+ymr258c
+ymr269w
+ymr285c
+ymr293c
+ynd1
+yor006c
+yor009w
+yor015w
+yor021c
+yor051c (**14)
+yor072w
+yor078w
+yor080w (**3)
+ypl216w
+zds1
+AUR1 (tet promoter)
+CDC42 (tet promoter)
+ERG11 (tet promoter)
+FKS1 (tet promoter)
+HMG2 (tet promoter)
+IDI1 (tet promoter)
+KAR2 (tet promoter)
+PMA1 (tet promoter)
+RHO1 (tet promoter)
+YEF3 (tet promoter)
+2-deoxy-D-glucose
+Calcofluor white
+Cycloheximide
+Doxycycline
+"FR901,228"
+Glucosamine
+HU
+Itraconazole
+Lovastatin
+MMS
+Nikkomycin
+Terbinafine
+Tunicamycin
+ylr098c deletion
+ybl054w deletion
+ykl062w deletion
+yer051w deletion
+ylr176c deletion
+ykl032c deletion
+yjl176c deletion
+yjr060w deletion
+ypr008w deletion
+yhl009c deletion
+ypl001w deletion
+ymr273c deletion
+yol028c deletion
+ykl020c deletion
+yor344c deletion
+yor028c deletion
+ypr199c deletion
+ypl049c deletion
+ybl021c deletion
+yer109c deletion
+yir033w deletion
+ypl129w deletion
+ynl236w deletion
+yjr122w deletion
+yml051w deletion
+yor140w deletion
+ypl042c deletion
+yel056w deletion
+ypl177c deletion
+ymr070w deletion
+ydr169c deletion
+yml102w deletion
+yol116w deletion
+ypl248c deletion
+ygr056w deletion
+ymr042w deletion
+ykl185w deletion
+ybr182c deletion
+yhr206w deletion
+ymr182c deletion
+yir018w deletion
+ynl330c deletion
+yil119c deletion
+ydr173c deletion
+ygl023c deletion
+ygr097w deletion
+yor038c deletion
+yhl020c deletion
+ybr289w deletion
+ynr052c deletion
+ykr099w deletion
+ylr357w deletion
+yor113w deletion
+yjl168c deletion
+ydr477w deletion
+ypr196w deletion
+yml081w deletion
+ykr034w deletion
+ycr081w deletion
+ybl066c deletion
+ylr182w deletion
+yor229w deletion
+ynl257c deletion
+ygl035c deletion
+ydr443c deletion
+yor290c deletion
+ybr083w deletion
+yer184c deletion
+ydr423c deletion
+yor363c deletion
+yhl025w deletion
+ykl015w deletion
+ydr253c deletion
+ymr019w deletion
+ykl005c deletion
+yol108c deletion
+ygl096w deletion
+yer161c deletion
+yfl044c deletion
+ybr245c deletion
+yol051w deletion
+ydr181c deletion
+ygl244w deletion
+yir023w deletion
+ygr249w deletion
+ydr191w deletion
+ygl025c deletion
+yol068c deletion
+ymr053c deletion
+ydr421w deletion
+yfr034c deletion
+ylr442c deletion
+ypr022c deletion
+ymr164c deletion
+ypl230w deletion
+ybl103c deletion
+ydr146c deletion
+ydr049w deletion
+yfl031w deletion
+ynl139c deletion
+ykl109w deletion
+ydl056w deletion
+ydr216w deletion
+ylr039c deletion
+yor380w deletion
+ypr193c deletion
+ybr297w deletion
+yer068w deletion
+yel009c deletion
+ygl162w deletion
+ydl170w deletion
+ydr277c deletion
+ylr113w deletion
+ypr054w deletion
+yor298c-a deletion
+yml099c deletion
+ypr009w deletion
+ynl199c deletion
+yor025w deletion
+ymr021c deletion
+ygl131c deletion
+ylr418c deletion
+ypl133c deletion
+ygl237c deletion
+ygr044c deletion
+yfl021w deletion
+yil131c deletion
+yhr154w deletion
+ynl309w deletion
+ykr064w deletion
+ymr016c deletion
+ydr448w deletion
+ydr259c deletion
+ydr043c deletion
+yor230w deletion
+yor032c deletion
+ycl055w deletion
+ymr037c deletion
+ygr089w deletion
+ybl052c deletion
+ygr104c deletion
+yjr127c deletion
+yfl052w deletion
+ydr026c deletion
+yol004w deletion
+ynl204c deletion
+ypl202c deletion
+yor191w deletion
+yhr178w deletion
+ypl038w deletion
+yjl110c deletion
+ydr176w deletion
+ylr451w deletion
+yhr006w deletion
+ypl139c deletion
+ynl167c deletion
+ynl314w deletion
+ylr014c deletion
+yjl127c deletion
+yor162c deletion
+yir017c deletion
+ygl013c deletion
+yor304w deletion
+ybl005w deletion
+yil010w deletion
+ylr228c deletion
+ykl043w deletion
+yer130c deletion
+ycr084c deletion
+ydr213w deletion
+ybr195c deletion
+ycr106w deletion
+yjr147w deletion
+ykr036c deletion
+ydr363w deletion
+yml113w deletion
+ydl042c deletion
+ydr310c deletion
+ynl021w deletion
+ydl070w deletion
+ybl008w deletion
+yer169w deletion
+ydr207c deletion
+ydr073w deletion
+yjl103c deletion
+ydr451c deletion
+yer028c deletion
+yil038c deletion
+ynl068c deletion
+ynl097c deletion
+ydl020c deletion
+ydr392w deletion
+yol148c deletion
+yol089c deletion
+yer040w deletion
+yhl027w deletion
+yor213c deletion
+ykl038w deletion
+ygl071w deletion
+ynr010w deletion
+ygl254w deletion
+yil036w deletion
+ydr123c deletion
+yml007w deletion
+yil101c deletion
+ygr067c deletion
+yil084c deletion
+ygl151w deletion
+ypr065w deletion
+ygl166w deletion
+ygr063c deletion
+ybr240c deletion
+yol067c deletion
+ylr013w deletion
+ybr239c deletion
+ymr280c deletion
+yjl056c deletion
+yal051w deletion
+ybr103w deletion
+ydr463w deletion
+ypr018w deletion
+ydl048c deletion
+ylr278c deletion
+yjl206c deletion
+ydr266c deletion
+ybr033w deletion
+ylr131c deletion
+yjr094c deletion
+yjr140c deletion
+ybr150c deletion
+ydr520c deletion
+ydr009w deletion
+yor358w deletion
+ykr101w deletion
+yer111c deletion
+yml076c deletion
+ypl089c deletion
+ynr063w deletion
+ykl222c deletion
+yer088c deletion
+ygl209w deletion
+ykl072w deletion
+ylr136c deletion
+yhr041c deletion
+ydl106c deletion
+ygl197w deletion
+yml027w deletion
+ymr075w deletion
+ygl181w deletion
+yil130w deletion
+ygr040w deletion
+ylr403w deletion
+ypl254w deletion
+yil128w deletion
+ycr065w deletion
+ybr275c deletion
+ylr453c deletion
+yjl089w deletion
+ylr266c deletion
+ynl027w deletion
+ygr288w deletion
+yer045c deletion
+yhr124w deletion
+ypl075w deletion
+ynl216w deletion
+ybr049c deletion
+ygl073w deletion
+ykl112w deletion
+ymr043w deletion
+ABF1OE+
+ABF1OE-
+ADR1OE+
+ADR1OE-
+BYE1OE+
+BYE1OE-
+CAT8OE+
+CAT8OE-
+CRZ1OE+
+CRZ1OE-
+CST6OE+
+CST6OE-
+CUP2OE+
+CUP2OE-
+ECM22OE+
+ECM22OE-
+GAT3OE+
+GAT3OE-
+GAT4OE+
+GAT4OE-
+GCN4-AOE+
+GCN4-AOE-
+GIS1OE+
+GIS1OE-
+GIS2OE+
+GIS2OE-
+GZF3OE+
+GZF3OE-
+HAC1OE+
+HAC1OE-
+HAP4OE+
+HAP4OE-
+HMS1OE+
+HMS1OE-
+HSF1OE+
+HSF1OE-
+INO2OE+
+INO2OE-
+MBP1OE+
+MBP1OE-
+MET31OE+
+MET31OE-
+MET4OE+
+MET4OE-
+MGA1OE+
+MGA1OE-
+MIG1OE+
+MIG1OE-
+MOT3OE+
+MOT3OE-
+MSN2OE+
+MSN2OE-
+MSN4OE+
+MSN4OE-
+PHO4OE+
+PHO4OE-
+PUT3OE+
+PUT3OE-
+RAP1OE+
+RAP1OE-
+RFX1OE+
+RFX1OE-
+RGM1OE+
+RGM1OE-
+RME1OE+
+RME1OE-
+ROX1OE+
+ROX1OE-
+RSC30OE+
+RSC30OE-
+SFP1OE+
+SFP1OE-
+SIP4OE+
+SIP4OE-
+SKN7OE+
+SKN7OE-
+SOK2OE+
+SOK2OE-
+SPS18OE+
+SPS18OE-
+SPT2OE+
+SPT2OE-
+STE12OE+
+STE12OE-
+STP2OE+
+STP2OE-
+STP3OE+
+STP3OE-
+SUT1OE+
+SUT1OE-
+SWI4OE+
+SWI4OE-
+TOS8OE+
+TOS8OE-
+UPC2OE+
+UPC2OE-
+XBP1OE+
+XBP1OE-
+YAP1OE+
+YAP1OE-
+YHP1OE+
+YHP1OE-
+YOX1OE+
+YOX1OE-
+YPR015COE+
+YPR015COE-
+YRR1OE+
+YRR1OE-
+ZAP1OE+
+ZAP1OE-
+WT/adr1+
+WT/adr1-
+WT/bye1+
+WT/bye1-
+WT/cat8+
+WT/cat8-
+WT/crz1+
+WT/crz1-
+WT/cst6+
+WT/cst6-
+WT/cup2+
+WT/cup2-
+WT/ecm22+
+WT/ecm22-
+WT/gat3+
+WT/gat3-
+WT/gat4+
+WT/gat4-
+WT/gcn4+
+WT/gcn4-
+WT/gis1+
+WT/gis1-
+WT/gis2+
+WT/gis2-
+WT/gzf3+
+WT/gzf3-
+WT/hac1+
+WT/hac1-
+WT/hap4+
+WT/hap4-
+WT/hms1+
+WT/hms1-
+WT/ino2+
+WT/ino2-
+WT/mbp1+
+WT/mbp1-
+WT/met31+
+WT/met31-
+WT/mga1+
+WT/mga1-
+WT/mig1+
+WT/mig1-
+WT/mot3+
+WT/mot3-
+WT/msn2+
+WT/msn2-
+WT/msn4+
+WT/msn4-
+Wt/pho4+
+Wt/pho4-
+WT/put3+
+WT/put3-
+WT/rfx1+
+WT/rfx1-
+WT/rgm1+
+WT/rgm1-
+WT/rme1+
+WT/rme1-
+WT/rox1+
+WT/rox1-
+WT/rsc30+
+WT/rsc30-
+WT/sfp1+
+WT/sfp1-
+WT/sip4+
+WT/sip4-
+WT/skn7+
+WT/skn7-
+WT/sok2+
+WT/sok2-
+WT/sps18+
+WT/sps18-
+WT/spt2+
+WT/spt2-
+WT/ste12+
+WT/ste12-
+WT/stp2+
+WT/stp2-
+WT/stp3+
+WT/stp3-
+WT/sut1+
+WT/sut1-
+WT/swi4+
+WT/swi4-
+WT/tos8+
+WT/tos8-
+WT/upc2+
+WT/upc2-
+WT/xbp1+
+WT/xbp1-
+WT/yap1+
+WT/yap1-
+WT/yhp1+
+WT/yhp1-
+WT/yox1+
+WT/yox1-
+WT/ypr015c+
+WT/ypr015c-
+WT/yrr1+
+WT/yrr1-
+WT/zap1+
+WT/zap1-
+SD8_sporulation_DMSO_4hr
+SD8_sporulation_DMSO_4hr
+SD5_sporulation_DMSO_1hr
+SD5_sporulation_DMSO_1hr
+SB8_sporulation_benomyl_4hr
+SB8_sporulation_benomyl_4hr
+SB5_sporulation_benomyl_1hr
+SB5_sporulation_benomyl_1hr
+SF5_sporulation_initial_4hr_plus_1hr
+SF5_sporulation_initial_4hr_plus_1hr
+SP4_sporulation_initial_4hr
+SP4_sporulation_initial_4hr
+YPA_pre_sporulation_control
+YPA_pre_sporulation_control
+YPD_general_control
+YPD_general_control
+SC5_sporulation_cold_1hr
+SC5_sporulation_cold_1hr
+SC8_sporulation_cold_4hr
+SC8_sporulation_cold_4hr
+SR4_sporulation_initial_4hr_control_for SC_expt
+SR4_sporulation_initial_4hr_control_for SC_expt
+SR5_sporulation_initial_4hr_plus_1hr_control_for_SC5
+SR5_sporulation_initial_4hr_plus_1hr_control_for_SC5
+SR8_sporulation_control_for_SC8
+SR8_sporulation_control_for_SC8
+wildtype(YSS37)_T0
+wildtype(YSS37)_T30
+wildtype(YSS37)_T60
+wildtype(YSS37)_T0
+wildtype(YSS37)_T30
+wildtype(YSS37)_T60
+wildtype(YSS37)_T0
+wildtype(YSS37)_T30
+wildtype(YSS37)_T60
+IFH1induced(YSS89)_T0
+IFH1induced(YSS89)_T20
+IFH1induced(YSS89)_T30
+IFH1induced(YSS89)_T40
+IFH1induced(YSS89)_T60
+IFH1induced(YSS89)_T0
+IFH1induced(YSS89)_T20
+IFH1induced(YSS89)_T30
+IFH1induced(YSS89)_T40
+IFH1induced(YSS89)_T60
+IFH1induced(YSS89)_T0
+IFH1induced(YSS89)_T20
+IFH1induced(YSS89)_T30
+IFH1induced(YSS89)_T40
+IFH1induced(YSS89)_T60
+del_gpa2
+del_gpa2
+del_gpr1
+del_gpr1
+wt_W303-1A
+wt_W303-1A
+del_PMI40_0pt75_g_per_L_initial_mannose
+del_PMI40_0pt75_g_per_L_initial_mannose
+del_PMI40_0pt75_g_per_L_initial_mannose
+del_PMI40_3_g_per_L_initial_mannose
+del_PMI40_3_g_per_L_initial_mannose
+del_PMI40_3_g_per_L_initial_mannose
+del_PMI40_5_g_per_L_initial_mannose
+del_PMI40_5_g_per_L_initial_mannose
+del_PMI40_5_g_per_L_initial_mannose
+del_PMI40_1pt5_g_per_L_initial_mannose
+del_PMI40_1pt5_g_per_L_initial_mannose
+del_PMI40_1pt5_g_per_L_initial_mannose
+del_PMI40_1_g_per_L_initial_mannose
+del_PMI40_1_g_per_L_initial_mannose
+del_PMI40_1_g_per_L_initial_mannose
+BY_haploid
+BY_haploid
+BY_haploid
+RM_haploid
+RM_haploid
+RM_haploid
+BYxRM_diploid
+BYxRM_diploid
+BYxRM_diploid
+BYxRM_diploid
+BYxRM_diploid
+BYxRM_diploid
+Segregant
+Segregant
+BY_diploid
+BY_diploid
+BY_diploid
+RM_diploid
+RM_diploid
+RM_diploid
+Segregant_diploid _hybrid
+Segregant_diploid _hybrid
+WT_histoneH3H4_rpd3_study
+WT_histoneH3H4_rpd3_study
+WT_histoneH3H4_rpd3_study
+del_rpd3
+del_rpd3
+H3del(1-28)
+H3del(1-28)
+H3(K4,9,14,18,23,27Q)
+H3(K4,9,14,18,23,27Q)
+H3(K4,9,14,18,23,27Q)
+H4del(2-26)
+H4del(2-26)
+H4(K5,8,12,16Q)
+H4(K5,8,12,16Q)
+del_rpd3_H3del(1-28)
+del_rpd3_H3del(1-28)
+del_rpd3_H4(K5,8,12,16Q)
+del_rpd3_H4(K5,8,12,16Q)
+H3del(1-28)_CSM
+H3del(1-28)_CSM
+H3del(1-28)_CSM
+H3del(1-28)_CSM
+H3_wild_type_CSM
+H3_wild_type_CSM
+H3_wild_type_CSM
+H3_wild_type_CSM
+H4_wild_type_CSM
+H4_wild_type_CSM
+H4_wild_type_CSM
+H4del(2-26)_CSM
+H4del(2-26)_CSM
+H4del(2-26)_CSM
+glucose_pulse_intital_control_t0
+glucose_pulse_120sec
+glucose_pulse_210sec
+glucose_pulse_300sec
+glucose_pulse_330sec
+glucose_pulse_intital_control_t0
+glucose_pulse_30sec
+glucose_pulse_60sec
+glucose_pulse_120sec
+glucose_pulse_300sec
+glucose_pulse_330sec
+glucose_pulse_intital_control_t0
+glucose_pulse_30sec
+glucose_pulse_60sec
+glucose_pulse_120sec
+glucose_pulse_300sec
+YDR_E1_control
+YDR_E1_control
+YDR_E1_control
+YDR_E1_50percent_dry
+YDR_E1_50percent_dry
+YDR_E1_50percent_dry
+YDR_E1_full_dry
+YDR_E1_full_dry
+YDR_E1_full_dry
+YDR_E1_post_dry_15
+YDR_E1_post_dry_15
+YDR_E1_post_dry_15
+YDR_E1_post_dry_45
+YDR_E1_post_dry_45
+YDR_E1_post_dry_45
+YDR_E1_post_dry_90
+YDR_E1_post_dry_90
+YDR_E1_post_dry_90
+YDR_E1_post_dry_360
+YDR_E1_post_dry_360
+YDR_E1_post_dry_360
+YDR_E2_control
+YDR_E2_control
+YDR_E2_control
+YDR_E2_50percent_dry
+YDR_E2_50percent_dry
+YDR_E2_50percent_dry
+YDR_E2_full_dry
+YDR_E2_full_dry
+YDR_E2_full_dry
+YDR_E2_post_dry_15
+YDR_E2_post_dry_15
+YDR_E2_post_dry_15
+YDR_E2_post_dry_45
+YDR_E2_post_dry_45
+YDR_E2_post_dry_45
+YDR_E2_post_dry_90
+YDR_E2_post_dry_90
+YDR_E2_post_dry_90
+YDR_E2_post_dry_360
+YDR_E2_post_dry_360
+YDR_E2_post_dry_360
+YDR_E3_control
+YDR_E3_control
+YDR_E3_control
+YDR_E3_50percent_dry
+YDR_E3_50percent_dry
+YDR_E3_50percent_dry
+YDR_E3_full_dry
+YDR_E3_full_dry
+YDR_E3_full_dry
+YDR_E3_post_dry_15
+YDR_E3_post_dry_15
+YDR_E3_post_dry_15
+YDR_E3_post_dry_45
+YDR_E3_post_dry_45
+YDR_E3_post_dry_45
+YDR_E3_post_dry_90
+YDR_E3_post_dry_90
+YDR_E3_post_dry_90
+YDR_E3_post_dry_360
+YDR_E3_post_dry_360
+YDR_E3_post_dry_360
+commercial_dry_active_yeast
+commercial_dry_active_yeast
+commercial_dry_active_yeast
+wt_no_treatment_TFIIH_MMS_study
+wt_MMS
+ssl1_C406A_MMS
+ssl1_C406A_no_treatment
+ssl1_C403A_MMS
+wt_MMS
+wt_no_treatment_TFIIH_MMS_study
+ssl1_C406A_no_treatment
+ssl1_C403A_no_treatment
+ssl1_C406A_MMS
+ssl1_C403A_no_treatment
+ssl1_C403A_MMS
+wt_for_fhl1_ifh1_deletions
+wt_for_fhl1_ifh1_deletions
+del_fhl1
+del_fhl1
+del_fhl1_del_ifh1
+del_fhl1_del_ifh1
+metabolic_cycles_t1
+metabolic_cycles_t2
+metabolic_cycles_t3
+metabolic_cycles_t4
+metabolic_cycles_t5
+metabolic_cycles_t6
+metabolic_cycles_t7
+metabolic_cycles_t8
+metabolic_cycles_t9
+metabolic_cycles_t10
+metabolic_cycles_t11
+metabolic_cycles_t12
+metabolic_cycles_t13
+metabolic_cycles_t14
+metabolic_cycles_t15
+metabolic_cycles_t16
+metabolic_cycles_t17
+metabolic_cycles_t18
+metabolic_cycles_t19
+metabolic_cycles_t20
+metabolic_cycles_t21
+metabolic_cycles_t22
+metabolic_cycles_t23
+metabolic_cycles_t24
+metabolic_cycles_t25
+metabolic_cycles_t26
+metabolic_cycles_t27
+metabolic_cycles_t28
+metabolic_cycles_t29
+metabolic_cycles_t30
+metabolic_cycles_t31
+metabolic_cycles_t32
+metabolic_cycles_t33
+metabolic_cycles_t34
+metabolic_cycles_t35
+metabolic_cycles_t36
+control_for_100ug_ml_treatment
+100ug_ml_azinomycin_B
+control_for_100ug_ml_treatment
+100ug_ml_azinomycin_B
+control_for_10ug_ml_treatment
+10ug_ml_azinomycin_B
+BJ5459_wt_for_spt10
+BJ5459_wt_for_spt10
+BJ5459_wt_for_spt10
+del_spt10
+del_spt10
+del_spt10
+BJ5459_spt10-C388S
+BJ5459_spt10-C388S
+BJ5459_spt10-C388S
+Aerobic_glucose_limited
+Aerobic_glucose_limited
+Aerobic_glucose_limited
+Aerobic_nitrogen_limited
+Aerobic_nitrogen_limited
+Aerobic_nitrogen_limited
+Aerobic_phosphorus_limited
+Aerobic_phosphorus_limited
+Aerobic_phosphorus_limited
+Aerobic_sulfur_limited
+Aerobic_sulfur_limited
+Aerobic_sulfur_limited
+Anaerobic_carbon_limited
+Anaerobic_nitrogen_limited
+Anaerobic_nitrogen_limited
+Anaerobic_nitrogen_limited
+Anaerobic_phosphorus_limited
+Anaerobic_phosphorus_limited
+Anaerobic_phosphorus_limited
+Anaerobic_sulfur_limited
+Anaerobic_sulfur_limited
+Anaerobic_sulfur_limited
+Anaerobic_carbon_limited
+Anaerobic_carbon_limited
+Anaerobic_carbon_limited
+Aerobic_glucose_limited
+Aerobic_glucose_limited
+Aerobic_glucose_limited
+wt_for_H2B_mutations
+wt_for_H2B_mutations
+wt_for_H2B_mutations
+mutant_histone_H2Bdel(3-32)
+mutant_histone_H2Bdel(3-32)
+mutant_histone_H2Bdel(3-32)
+wt_for_H2B_mutations
+wt_for_H2B_mutations
+mutant_histone_H2B(K6,11,16,17,21,22G)
+mutant_histone_H2B(K6,11,16,17,21,22G)
+mutant_histone_H2B(K6,11,16,17,21,22G)
+wt_for_H2B_mutations
+wt_for_H2B_mutations
+mutant_histone_H2Bdel(3-37)
+mutant_histone_H2Bdel(3-37)
+mutant_histone_H2Bdel(3-37)
+wt_for_H2B_mutations
+mutant_histone_H2Bdel(30-37)
+mutant_histone_H2Bdel(30-37)
+mutant_histone_H2Bdel(30-37)
+chitin_study_WT(BY4741)
+chitin_study_WT(BY4741)
+chitin_study_WT(BY4741)
+WT+GlcN_(2hr)
+WT+GlcN_(2hr)
+WT+GlcN_(2hr)
+WT+GlcN_(SS)
+WT+GlcN_(SS)
+WT+GlcN_(SS)
+del_fks1(5251)
+del_fks1(5251)+GlcN_(2hr)
+SH100_0H
+SH100_0H
+SH100_2H
+SH100_2H
+SH100_6H
+SH100_6H
+SH121_0H
+SH121_0H
+SH121_2H
+SH121_2H
+SH121_6H
+SH121_6H
+Dough_Fermentation_T0
+Dough_Fermentation_T15
+Dough_Fermentation_T30
+Dough_Fermentation_T60
+wt_nonsense-mediated_study1
+del_upf1
+del_dcp1
+del_xrn1_study1
+wt_nonsense-mediated_study1
+del_upf1
+del_nmd2
+del_upf3
+del_dcp1
+del_xrn1_study1
+wt_nonsense-mediated_study1
+del_upf1
+del_nmd2
+del_nmd2
+del_nmd2
+del_upf3
+del_upf3
+del_upf3
+wt_nonsense-mediated_study1
+del_dcp1
+del_dcp1
+del_xrn1_study1
+wt_nonsense-mediated_study1
+del_upf1
+del_dcp1
+del_xrn1_study1
+wt_nonsense-mediated_study2
+del_xrn1_study2
+del_xrn1_del_upf1
+del_xrn1_del_nmd2
+del_xrn1_del_upf3
+wt_nonsense-mediated_study2
+del_xrn1_study2
+del_xrn1_del_upf1
+del_xrn1_del_nmd2
+del_xrn1_del_upf3
+wt_nonsense-mediated_study2
+del_xrn1_study2
+del_xrn1_del_upf1
+del_xrn1_del_nmd2
+del_xrn1_del_upf3
+wt_nonsense-mediated_study2
+del_xrn1_study2
+del_xrn1_del_upf1
+del_xrn1_del_nmd2
+del_xrn1_del_upf3
+wt_yra1
+wt_yra1
+wt_yra1_del_mlp2
+wt_yra1_del_mlp2
+GFP_yra1(D10K,E11K)
+GFP_yra1(D10K,E11K)
+GFP_yra1(D10K,E11K)_del_mlp2
+GFP_yra1(D10K,E11K)_del_mlp2
+control_amino_acid_starved
+control_amino_acid_starved
+amino_acid_starved
+amino_acid_starved
+control_butanol_treated
+control_butanol_treated
+butanol_treated
+butanol_treated
+del_ho_glucose_dr_0pt1
+del_ho_glucose_dr_0pt2
+del_ho_nitrogen_dr_0pt1
+del_ho_nitrogen_dr_0pt2
+del_hap4_glucose_dr_0pt1
+del_hap4_glucose_dr_0pt2
+del_hap4_nitrogen_dr_0pt1
+del_hap4_nitrogen_dr_0pt2
+control_for_H2O2
+control_for_H2O2
+H2O2_0pt2mM
+H2O2_0pt2mM
+H2O2_2mM
+H2O2_2mM
+del_yhb1_t0
+del_yhb1_t0
+del_yhb1_t0
+del_yhb1_t10
+del_yhb1_t10
+del_yhb1_t30
+del_yhb1_t60
+del_yhb1_t60
+del_yhb1_t120
+del_yhb1_t120
+del_yap1-yhb1_t0
+del_yap1-yhb1_t60
+del_msn2-msn4-yhb1_t0
+del_msn2-msn4-yhb1_t60
+del_yhb1_t60_1mM
+del_yhb1_t60_0pt1mM
+BY4741_del_yhb1_t0
+BY4741_del_yhb1_t60
+rho0_del_yhb1_t0
+rho0_del_yhb1_t60
+N-limited_ammonium
+N-limited_ammonium
+N-limited_ammonium
+non_N-limited_control
+non_N-limited_control
+non_N-limited_control
+N-limited_glutamine
+N-limited_glutamine
+N-limited_glutamine
+N-limited_alanine
+N-limited_alanine
+N-limited_alanine
+doxycycline_10hr
+doxycycline_24hr
+doxycycline_2hr
+doxycycline_4hr
+before_doxycycline
+before_doxycycline
+before_doxycycline
+doxycycline_10hr
+doxycycline_24hr
+doxycycline_2hr
+doxycycline_4hr
+before_doxycycline
+FUM1
+fum1_del
+fum1_H153R
+fum1_K187R
+FUM1_U
+fum1_vect
+Affymetrix_yeast_demo
+Affymetrix_yeast_demo
+lcb1-100_t0
+lcb1-100_t15
+lcb1-100_t15
+lcb1-100_t0
+lcb1-100_t15
+lcb1-100_t30
+lcb1-100_t60
+rh406_t0
+rh406_t15
+rh406_t30
+rh406_t60
+rh406_t0
+rh406_t15
+ir_and_uv_control
+ir_and_uv_control
+ir_and_uv_control
+ir_t30
+ir_t60
+ir_t120
+ir_t240
+uv_t30
+uv_t60
+uv_t120
+uv_t240
+cisplatin_and_H2O2_control
+cisplatin_and_H2O2_control
+cisplatin_and_H2O2_control
+cisplatin_t0
+cisplatin_t30
+cisplatin_t60
+cisplatin_t120
+H2O2_t0
+H2O2_t30
+H2O2_t60
+H2O2_t120
+control_BY4741_MD
+rapamycin_1nm_BY4741
+cyclohexamide_BY4741
+camptothesin_BY4741
+nocodazole_BY4741
+rapamycin_3nm_BY4741
+fluconazole_BY4741
+del_hsl1
+del_azf1_glucose
+del_azf1_glucose
+del_azf1_glucose
+del_azf1_glycerol_lactate
+del_azf1_glycerol_lactate
+del_azf1_glycerol_lactate
+wt_azf1_glucose
+wt_azf1_glucose
+wt_azf1_glucose
+wt_azf1_glycerol_lactate
+wt_azf1_glycerol_lactate
+wt_azf1_glycerol_lactate
+minimal_media_haploinsufficiency
+minimal_media_haploinsufficiency
+YPD_haploinsufficiency
+YPD_haploinsufficiency
+YPD_haploinsufficiency
+YPD_haploinsufficiency
+YPD_haploinsufficiency
+YPD_haploinsufficiency
+del_isc1_t0
+wt_isc1_t0
+del_isc1_t15
+wt_isc1_t15
+del_isc1_t0
+del_isc1_t15
+wt_isc1_t0
+wt_isc1_t15
+del_upf1_t0
+del_upf1_thiolutin_t2
+del_upf1_thiolutin_t4
+del_upf1_thiolutin_t6
+del_upf1_thiolutin_t8
+del_upf1_thiolutin_t10
+del_upf1_thiolutin_t12
+del_upf1_thiolutin_t15
+del_upf1_thiolutin_t20
+del_upf1_thiolutin_t25
+del_upf1_thiolutin_t30
+del_upf1_thiolutin_t35
+del_upf1_thiolutin_t40
+del_upf1_thiolutin_t45
+del_upf1_thiolutin_t50
+del_upf1_thiolutin_t60
+del_upf1_t0
+del_upf1_thiolutin_t2
+del_upf1_thiolutin_t4
+del_upf1_thiolutin_t6
+del_upf1_thiolutin_t8
+del_upf1_thiolutin_t10
+del_upf1_thiolutin_t12
+del_upf1_thiolutin_t15
+del_upf1_thiolutin_t20
+del_upf1_thiolutin_t25
+del_upf1_thiolutin_t30
+del_upf1_thiolutin_t35
+del_upf1_thiolutin_t40
+del_upf1_thiolutin_t45
+del_upf1_thiolutin_t50
+del_upf1_thiolutin_t60
+del_upf1_t0
+del_upf1_thiolutin_t2
+del_upf1_thiolutin_t4
+del_upf1_thiolutin_t6
+del_upf1_thiolutin_t8
+del_upf1_thiolutin_t10
+del_upf1_thiolutin_t12
+del_upf1_thiolutin_t15
+del_upf1_thiolutin_t20
+del_upf1_thiolutin_t25
+del_upf1_thiolutin_t30
+del_upf1_thiolutin_t35
+del_upf1_thiolutin_t40
+del_upf1_thiolutin_t45
+del_upf1_thiolutin_t50
+del_upf1_thiolutin_t60
+wt_S288C_t0
+wt_S288C_thiolutin_t2
+wt_S288C_thiolutin_t4
+wt_S288C_thiolutin_t6
+wt_S288C_thiolutin_t8
+wt_S288C_thiolutin_t10
+wt_S288C_thiolutin_t12
+wt_S288C_thiolutin_t15
+wt_S288C_thiolutin_t20
+wt_S288C_thiolutin_t25
+wt_S288C_thiolutin_t30
+wt_S288C_thiolutin_t35
+wt_S288C_thiolutin_t40
+wt_S288C_thiolutin_t45
+wt_S288C_thiolutin_t50
+wt_S288C_thiolutin_t60
+wt_S288C_t0
+wt_S288C_thiolutin_t2
+wt_S288C_thiolutin_t4
+wt_S288C_thiolutin_t6
+wt_S288C_thiolutin_t8
+wt_S288C_thiolutin_t10
+wt_S288C_thiolutin_t12
+wt_S288C_thiolutin_t15
+wt_S288C_thiolutin_t20
+wt_S288C_thiolutin_t25
+wt_S288C_thiolutin_t30
+wt_S288C_thiolutin_t35
+wt_S288C_thiolutin_t40
+wt_S288C_thiolutin_t45
+wt_S288C_thiolutin_t50
+wt_S288C_thiolutin_t60
+wt_S288C_t0
+wt_S288C_thiolutin_t2
+wt_S288C_thiolutin_t4
+wt_S288C_thiolutin_t6
+wt_S288C_thiolutin_t8
+wt_S288C_thiolutin_t10
+wt_S288C_thiolutin_t12
+wt_S288C_thiolutin_t15
+wt_S288C_thiolutin_t20
+wt_S288C_thiolutin_t25
+wt_S288C_thiolutin_t30
+wt_S288C_thiolutin_t35
+wt_S288C_thiolutin_t40
+wt_S288C_thiolutin_t45
+wt_S288C_thiolutin_t50
+wt_S288C_thiolutin_t60
+BMA64_wildtype
+BMA64_wildtype
+BMA64_wildtype
+BMA64_wildtype
+BMA64_wildtype
+BMA64_del_rnt1
+BMA64_del_rnt1
+BMA64_del_rnt1
+BMA64_del_rnt1
+evolved_strain_aerobic_only_xylose
+evolved_strain_aerobic_only_xylose
+evolved_strain_aerobic
+evolved_strain_aerobic
+evolved_strain_anaerobic
+evolved_strain_anaerobic
+TMB3001_aerobic
+TMB3001_aerobic
+TMB3001_anaerobic
+TMB3001_anaerobic
+del_sgs
+del_sgs
+del_sgs_with_mms
+del_sgs_with_mms
+aging_study_wild_type
+aging_study_wild_type
+wild_type_with_mms
+wild_type_with_mms
+dilution_rate_0pt02
+dilution_rate_0pt05
+dilution_rate_0pt1
+dilution_rate_0pt1
+dilution_rate_0pt1
+dilution_rate_0pt2
+dilution_rate_0pt2
+dilution_rate_0pt2
+dilution_rate_0pt25
+dilution_rate_0pt33
+dilution_rate_0pt33
+dilution_rate_0pt33
+Ty1_VLP_cytoplasmic_control
+Ty1_VLP_cytoplasmic_control
+wt_for_abf1_37degC
+wt_for_abf1_37degC
+wt_for_abf1_37degC
+abf1_ts_37degC
+abf1_ts_37degC
+abf1_ts_37degC
+wt_for_rap1_37degC
+wt_for_rap1_37degC
+wt_for_rap1_37degC
+rap1_ts_37degC
+rap1_ts_37degC
+rap1_ts_37degC
+wt_for_edc3_study
+wt_for_edc3_study
+wt_for_edc3_study
+wt_for_edc3_study
+del_edc3
+del_edc3
+del_edc3
+del_edc3
+control_for_pyocyanin
+pyocyanin_25ug/mL
+control_for_pyocyanin
+pyocyanin_25ug/mL
+pyocyanin_250ug/mL
+pyocyanin_250ug/mL
+12degC_C_lim
+12degC_C_lim
+12degC_C_lim
+30degC_C_lim
+30degC_C_lim
+30degC_C_lim
+12degC_N_lim
+12degC_N_lim
+12degC_N_lim
+30degC_N_lim
+30degC_N_lim
+30degC_N_lim
+wt_for_del_cbc2
+wt_for_del_cbc2
+wt_for_del_cbc2
+del_cbc2
+del_cbc2
+del_cbc2
+wt_asf1
+wt_asf1
+del_asf1
+del_asf1
+std_medium_cenpk
+std_medium_cenpk
+std_medium_RS
+std_medium_RS
+VHG_cenpk_5hr
+VHG_cenpk_5hr
+VHG_RS_5hr
+VHG_RS_5hr
+VHG_cenpk_48hr
+VHG_cenpk_48hr
+VHG_RS_48hr
+VHG_RS_48hr
+wt_taf10
+wt_taf10
+del_taf10_del_72
+del_taf10_del_92
+del_taf10_chim_38
+del_taf10_chim_97
+del_taf10_chim_98
+BY4742_3days_YPD_quiescent
+BY4742_3days_YPD_quiescent
+BY4742_3days_YPD_quiescent_plus_10min_2%glucose
+BY4742_3days_YPD_quiescent_plus_10min_2%glucose
+del_stb3_3days_YPD_quiescent
+del_stb3_3days_YPD_quiescent
+del_stb3_3days_YPD_quiescent_plus_10min_2%glucose
+del_stb3_3days_YPD_quiescent_plus_10min_2%glucose
+empty_vector_pdr1_study
+empty_vector_pdr1_study
+empty_vector_pdr1_study
+pdr1-cyc8_fusion
+pdr1-cyc8_fusion
+pdr1-cyc8_fusion
+del_pdr1
+del_pdr1
+del_pdr1
+pdr1-cyc8_fusion_del_pdr1
+pdr1-cyc8_fusion_del_pdr1
+pdr1-cyc8_fusion_del_pdr1
+pdr1-sin3_fusion
+pdr1-sin3_fusion
+pdr1-sin3_fusion
+wild_type_initial_mre11_study
+wild_type_meiosis_4hrs
+del_mre11_initial
+del_mre11_meiosis_4hrs
+del_rad50_initial
+del_rad50_meiosis_4hrs
+spo11(Y135F)_initial
+spo11(Y135F)_meiosis_4hrs
+C_lim_aerobic_chemostat_with_ASN
+C_lim_aerobic_chemostat_with_ASN
+C_lim_aerobic_chemostat_with_ASN
+C_lim_aerobic_chemostat_with_Proline
+C_lim_aerobic_chemostat_with_Proline
+C_lim_aerobic_chemostat_with_Proline
+C_lim_aerobic_chemostat_with_leucine
+C_lim_aerobic_chemostat_with_leucine
+C_lim_aerobic_chemostat_with_leucine
+C_lim_aerobic_chemostat_with_phenylalanine
+C_lim_aerobic_chemostat_with_phenylalanine
+C_lim_aerobic_chemostat_with_phenylalanine
+C_lim_aerobic_chemostat_with_methionine
+C_lim_aerobic_chemostat_with_methionine
+C_lim_aerobic_chemostat_with_methionine
+wt_for_H3(K4,79R)
+wt_for_H3(K4,79R)
+wt_for_H3(K4,79R)
+Mutant_Histone_H3(K4,79R)
+Mutant_Histone_H3(K4,79R)
+Mutant_Histone_H3(K4,79R)
+wt_for_H3(K4,36,79R)_0hr
+wt_for_H3(K4,36,79R)_0hr
+Mutant_Histone_H3(K4,36,79R)_0hr
+Mutant_Histone_H3(K4,36,79R)_0hr
+wt_for_H3(K4,36,79R)_6hr
+wt_for_H3(K4,36,79R)_6hr
+wt_for_H3(K4,36,79R)_6hr
+Mutant_Histone_H3(K4,36,79R)_6hr
+Mutant_Histone_H3(K4,36,79R)_6hr
+Mutant_Histone_H3(K4,36,79R)_6hr
+wt_for_H3(K4,36,79R)_9hr
+wt_for_H3(K4,36,79R)_9hr
+Mutant_Histone_H3(K4,36,79R)_9hr
+Mutant_Histone_H3(K4,36,79R)_9hr
+wt_asf1_t0
+mutant_asf1_t0
+wt_asf1_t1
+mutant_asf1_t1
+wt_asf1_t2
+mutant_asf1_t2
+wt_asf1_t3
+mutant_asf1_t3
+wt_asf1_t4
+mutant_asf1_t4
+wt_asf1_t0
+mutant_asf1_t0
+wt_asf1_t1
+mutant_asf1_t1
+wt_asf1_t2
+mutant_asf1_t2
+wt_asf1_t3
+mutant_asf1_t3
+wt_asf1_t4
+mutant_asf1_t4
+wt_asf1_t0
+mutant_asf1_t0
+wt_asf1_t1
+mutant_asf1_t1
+wt_asf1_t2
+mutant_asf1_t2
+wt_asf1_t3
+mutant_asf1_t3
+wt_asf1_t4
+mutant_asf1_t4
+mutant_eIF5A(V81G)_strain
+mutant_eIF5A(V81G)_strain
+mutant_eIF5A(V81G)_strain
+mutant_eIF5A(V81G)_strain
+wild-type_eIF5A_strain
+wild-type_eIF5A_strain
+wild-type_eIF5A_strain
+wild-type_eIF5A_strain
+diploid_sample
+diploid_sample
+diploid_sample
+amphotericin_B
+amphotericin_B
+caspofungin
+caspofungin
+5-fluorocytosine
+5-fluorocytosine
+ketoconazole
+ketoconazole
+DMSO_control
+DMSO_control
+wt_tbp1_wt_sua7
+wt_tbp1_sua7(E202G)
+tbp1(E186D)_wt_sua7
+tbp1(E186D)_sua7(E202G)
+tbp1(I143N)_wt_sua7
+tbp1(I143N)_sua7(E202G)
+kin28_0min
+kin28_60min
+pog1_0min
+pog1_60min
+ethanol_limited_chemostat
+ethanol_limited_chemostat
+ethanol_limited_chemostat
+acetate_limited_chemostat
+acetate_limited_chemostat
+acetate_limited_chemostat
+maltose_limited_chemostat
+maltose_limited_chemostat
+maltose_limited_chemostat
+prolonged_aerobic_maltose_limited_chemostat
+prolonged_aerobic_maltose_limited_chemostat
+prologued_aerobic_glucose_limited_chemostat
+prologued_aerobic_glucose_limited_chemostat
+prologued_aerobic_glucose_limited_chemostat
+anaerobic_glucose_limited_chemostat_100%CO2
+anaerobic_glucose_limited_chemostat_100%CO2
+anaerobic_glucose_limited_chemostat_100%CO2
+aerobic_glucose_limited_chemostat_79%CO2
+aerobic_glucose_limited_chemostat_79%CO2
+aerobic_glucose_limited_chemostat_79%CO2
+aerobic_nitrogen_limited_chemostat_79%CO2
+aerobic_nitrogen_limited_chemostat_79%CO2
+aerobic_nitrogen_limited_chemostat_79%CO2

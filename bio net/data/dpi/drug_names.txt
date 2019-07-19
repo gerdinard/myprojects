@@ -1,0 +1,1862 @@
+ribavirin-5'-phosphate 
+1003
+Phosphoenolpyruvate 
+2,4,5-trihydroxyphenylalanine quinone 
+mesoxalic acid 
+Phosphorylcholine 
+Lucanthone 
+Porphobilinogen 
+Phosphoadenosine Phosphosulfate 
+fructose-1,6-diphosphate 
+Propylene Glycol 
+Putrescine 
+Pyrazinamide 
+fulvestrant 
+raltitrexed 
+fotemustine 
+rimonabant 
+bosentan 
+Pyridoxal 
+Pyridoxal Phosphate 
+Methadyl Acetate 
+pyridoxamine phosphate 
+Dihydroergotamine 
+Pyridoxine 
+Echothiophate Iodide 
+Pyruvic Acid 
+Podophyllotoxin 
+Medroxyprogesterone 
+Dihydrotestosterone 
+10668
+1071
+hexylcaine 
+inositol 1-phosphate 
+inositol-1,3,4,5-tetrakisphosphate 
+Perindopril 
+daidzin 
+Am 80 
+Platelet Activating Factor 
+Methamphetamine 
+cysteine sulfinic acid 
+Carnitine 
+Spermine 
+vardenafil 
+tadalafil 
+Succinic Acid 
+5,6,7,8-tetrahydrobiopterin 
+Chlorotrianisene 
+phenindamine 
+Thiamine 
+coproporphyrin III 
+pranlukast 
+9-hydroxy-risperidone 
+S-methyl glutathione 
+nitisinone 
+lisdexamfetamine dimesylate 
+ethane sulfonate 
+Uric Acid 
+Urea 
+11840929
+11840960
+118458
+pentabromophenol 
+gamma-Aminobutyric Acid 
+marimastat 
+7,8-dihydrobiopterin 
+clofarabine 
+benzylpenicilloyl G 
+isopentenyl pyrophosphate 
+Okadaic Acid 
+Hydroxocobalamin 
+valdecoxib 
+11963622
+verdoheme 
+11968289
+isocitric acid 
+4-fluorobenzenesulfonamide 
+LY 134046 
+methyl lactoside 
+121959
+erythrose 4-phosphate 
+almotriptan 
+eptifibatide 
+etoricoxib 
+mometasone furoate 
+gefitinib 
+thionitrobenzoic acid 
+hexamethylene glycol 
+N,N-dimethylarginine 
+n-tetradecane 
+N(omega)-hydroxyarginine 
+desloratadine descarboethoxyloratadine 
+phendimetrazine 
+Glutathione 
+N(delta)-(phosphonoacetyl)-L-ornithine 
+Methotrexate 
+inositol 1,3-bisphosphate 
+tamsulosin 
+Naproxen 
+kifunensine 
+olmesartan medoxomil 
+Levonorgestrel 
+deoxycortone pivalate 
+4-methylimidazole 
+2-hydroxymethyl-4-(4-(N,N-dimethylaminosulfonyl)-1-piperazino)pyrimidine 
+forasartan 
+MDL 101146 
+dehydrotestosterone 
+4a-carbinolamine tetrahydrobiopterin 
+Vinblastine 
+134070
+Methimazole 
+Diphenoxylate 
+Aminolevulinic Acid 
+Deoxycytidine 
+1372
+Testolactone 
+1387
+1400
+Nicotinamide Mononucleotide 
+14492
+Nitric Oxide 
+145729
+Proline 
+fencamfamine 
+Citalopram 
+3-(2-thienyl)alanine 
+methdilazine 
+7-methylguanosine 5'-diphosphate 
+docetaxel 
+atazanavir 
+palonosetron 
+2,4,6-tribromophenol 
+Ofloxacin 
+149351
+alpha-Tocopherol 
+epoxymexrenone eplerenone 
+ezetimibe 
+aprepitant 
+lumiracoxib 
+conivaptan 
+Methadyl Acetate 
+1514
+2,3-dihydroxybenzoylserine 
+Flurandrenolone 
+1521
+dutasteride 
+moxifloxacin 
+argatroban 
+Levopropoxyphene 
+1543
+dodecyldimethylamine oxide 
+Clomiphene 
+fluvastatin 
+1550
+vinylglycine 
+cinacalcet 
+BIRB 796 
+Mercaptoethanol 
+delta-aminolevulinic acid methyl ester 
+158758
+2-hydroxyethyl disulfide 
+adenosine 3'-phosphate-5'-phosphate 
+BB3497 
+fidarestat 
+1604
+Tetrahydrocannabinol 
+salmon calcitonin 
+Cosyntropin 
+16129618
+Sermorelin 
+bivalirudin 
+16129715
+enfuvirtide 
+Aprotinin 
+abarelix 
+lepirudin 
+Teriparatide 
+N-Methyl-3,4-methylenedioxyamphetamine 
+Amiloride 
+3'-amino-3'-deoxythymidine 5'-monophosphate 
+1628
+SU 4984 
+Pimozide 
+3-bromo-7-nitroindazole 
+3-deoxyguanosine 
+165151
+Meglutol 
+Menthol 
+1667
+bismuth subsalicylate 
+dihydroxyaluminum aminoacetate 
+16685683
+Cacodylic Acid 
+enprofylline 
+poly 8-bromoadenylic acid 
+caerulein(4-10), Nle(8)- 
+dexbrompheniramine 
+S-(2-hydroxyethylmercapto)-L-cysteine 
+17012
+1707
+Sulfadoxine 
+1714
+Biotin 
+172469
+Ethylene Glycol 
+Atropine 
+coenzyme A persulfide 
+Uridine Diphosphate Glucuronic Acid 
+1758
+1759
+Acetic Acid 
+erlotinib 
+Phenytoin 
+Uridine Diphosphate Galactose 
+18104
+Estramustine 
+3-hydroxyglutaric acid 
+1829
+1836
+185698
+5'-methylthiotubercidin 
+7-nitroindazole 
+Adenine 
+Cyclacillin 
+Megestrol 
+arabinonate-5-phosphate 
+compound 18 
+Tacrine 
+193512
+S-benzylcysteine 
+1944
+Ro 48-8071 
+Acebutolol 
+Acetaminophen 
+Acetazolamide 
+azatadine 
+Acetohexamide 
+acetohydroxamic acid 
+Acyclovir 
+Cladribine 
+tridihexethyl 
+Beclomethasone 
+Butyrylthiocholine 
+Albuterol 
+Alendronate 
+ramelteon 
+lapatinib 
+alfuzosin 
+Allopurinol 
+alosetron 
+Alprazolam 
+Alprenolol 
+metocurine 
+Norleucine 
+Amantadine 
+2131
+2138
+Amifostine 
+2-aminobenzyl alcohol 
+2144
+Aminoglutethimide 
+5-nitroindazole 
+Theophylline 
+Amiodarone 
+sultopride 
+Amitriptyline 
+amlexanox 
+Amlodipine 
+sorafenib 
+lenalidomide 
+solifenacin succinate 
+Amodiaquine 
+Amoxapine 
+Amsacrine 
+anagrelide 
+anastrozole 
+aniracetam 
+anisindione 
+Cholic Acid 
+apraclonidine 
+Aprindine 
+androstane-3,17-dione 
+Arecoline 
+Equilin 
+dromostanolone propionate 
+Aspartame 
+Aspirin 
+Astemizole 
+Atenolol 
+Azathioprine 
+azelaic acid 
+azelastine 
+Baclofen 
+Bendroflumethiazide 
+bentiromide 
+benzamidine 
+Benzocaine 
+Benzphetamine 
+benzquinamide 
+benzothiazide 
+betotastine besilate 
+Bepridil 
+Diminazene 
+Trimethaphan 
+1-testosterone 
+Betaxolol 
+Quinacrine 
+Bethanechol 
+bevantolol 
+Erythrityl Tetranitrate 
+Biperiden 
+Molindone 
+24015
+Bisoprolol 
+Magnesium Sulfate 
+Androstane-3,17-diol 
+6-nitroindazole 
+metocurine 
+Benzoic Acid 
+bretylium 
+brimonidine 
+Camptothecin 
+Bromazepam 
+S-methylcysteine 
+bromodiphenhydramine 
+methodichlorophen 
+mercuric iodide, red 
+Lanosterol 
+Bumetanide 
+Bupivacaine 
+Buspirone 
+Vasopressins Vasotocin 
+medrysone 
+secbutabarbital 
+butalbital 
+butenafine 
+Caffeine 
+Verapamil 
+candesartan 
+Clodronic Acid 
+Carbachol 
+Carbamazepine 
+carbinoxamine 
+Carmustine 
+carprofen 
+Carteolol 
+carvedilol 
+aceprometazine 
+2605
+2608
+Cefadroxil 
+Metribolone 
+MMDA 
+Butyric Acid 
+celecoxib 
+26644
+Etorphine 
+Selegiline 
+Cetirizine 
+Levamisole 
+Phenylpropanolamine 
+Clemastine 
+Chlordiazepoxide 
+2716
+Chlormezanone 
+Chloroquine 
+Chlorothiazide 
+Thioguanine 
+Chlorpheniramine 
+Chlorpromazine 
+Chlorpropamide 
+2729
+Chlorthalidone 
+Chlorzoxazone 
+Tamoxifen 
+Pancuronium 
+ciclopirox 
+cilostazol 
+Cimetidine 
+2761
+2761494
+Ciprofloxacin 
+isosorbide-5-mononitrate 
+Nedocromil 
+Cisapride 
+Citalopram 
+2777993
+Clenbuterol 
+clidinium 
+clobazam 
+27934
+clofedanol 
+Clofibrate 
+Deamino Arginine Vasopressin 
+Clomipramine 
+Clonazepam 
+Clonidine 
+Clorazepate Dipotassium 
+clotiazepam 
+Clotrimazole 
+Clozapine 
+calusterone 
+formic acid 
+Danazol 
+28486
+28517
+Aminooxyacetic Acid 
+Lisuride 
+cyclobenzaprine 
+Cycloleucine 
+Cyclopentolate 
+cyclothiazide 
+cycrimine 
+Cyproheptadine 
+1-Deoxynojirimycin 
+2952
+Dapsone 
+Debrisoquin 
+decamethonium 
+decanoic acid 
+Chloramphenicol 
+Desipramine 
+Thiopental 
+Ranitidine 
+maraviroc 
+Toremifene 
+3013848
+Diazepam 
+Diazoxide 
+dibenzofuran-4,6-dicarboxylic acid 
+Dibucaine 
+Digoxin 
+Thiamylal 
+Daunorubicin 
+Diclofenac 
+dapiprazole 
+cinolazepam 
+Nizatidine 
+simendan 
+orlistat 
+3034811
+staurosporine aglycone 
+Dichlorphenamide 
+Dicyclomine 
+mitiglinide 
+3049
+Choline 
+Diethylcarbamazine 
+rasagiline 
+3054
+diphenidol 
+Diflunisal 
+dasatinib 
+hydroxyfasudil 
+lofexidine 
+fludarabine monophosphate 
+copolymer 1 Coat Protein Complex I 
+Phosphotyrosine 
+formoterol 
+3092847
+Diphenhydramine 
+diphenylpyraline 
+dipivefrin 
+Carbimazole 
+Dipyridamole 
+Citric Acid 
+Bromocriptine 
+Disopyramide 
+Secobarbital 
+Disulfiram 
+Valproic Acid 
+1,4-dioxane 
+Picrotoxin 
+Triamcinolone 
+Thiorphan 
+Fludrocortisone 
+Ursodeoxycholic Acid 
+Metipranolol 
+Domperidone 
+donepezil 
+3154
+Doxazosin 
+Doxylamine 
+halazepam 
+Droperidol 
+Doxorubicin 
+4-methoxyamphetamine 
+dyclonine 
+Dyphylline 
+Edrophonium 
+emedastine 
+Enflurane 
+Enoxacin 
+coumarin 
+epinastine 
+Phosphothreonine 
+Estazolam 
+32681
+3269221
+Ethacrynic Acid 
+Clobetasol 
+3281
+ethinamate 
+profenamine 
+Ethosuximide 
+ethotoin 
+Ethoxzolamide 
+Glutamic Acid 
+Etodolac 
+Adenylyl Imidodiphosphate 
+3311411
+3312
+Famotidine 
+felbamate 
+Felodipine 
+Fenfluramine 
+Fenofibrate 
+Fenoldopam 
+Fenoprofen 
+Fenoterol 
+Fentanyl 
+fexofenadine 
+Flavoxate 
+Flecainide 
+Ritodrine 
+Timolol 
+Fluconazole 
+Flucytosine 
+fludiazepam 
+Flufenamic Acid 
+Fluphenazine 
+Flumazenil 
+sorbinil 
+Tramadol 
+Salicylic Acid 
+Flunitrazepam 
+Fluorouracil 
+Fluoxetine 
+Almitrine 
+Flurazepam 
+Flurbiprofen 
+Fluspirilene 
+Flutamide 
+3404
+Nicergoline 
+fomepizole 
+formoterol 
+oxcarbazepine 
+Carbidopa 
+Furosemide 
+gabaculine 
+gabapentin 
+Gemfibrozil 
+Moricizine 
+Gentamicins 
+Teniposide 
+347402
+Gliclazide 
+S-Adenosylmethionine 
+glimepiride 
+Glipizide 
+amineptin 
+Glyburide 
+Glycopyrrolate 
+Granisetron 
+3517
+Guanethidine 
+Guanfacine 
+Guanidine 
+bitolterol 
+3543
+Haloperidol 
+octane 
+Halothane 
+Hexobarbital 
+Paclitaxel 
+Etomidate 
+Hydralazine 
+Hydrochlorothiazide 
+Etoposide 
+Hydroflumethiazide 
+Gonadotropin-Releasing Hormone 
+Hydroxyurea 
+Hydroxyzine 
+3660
+Ibuprofen 
+Phenelzine 
+Lidocaine 
+Mephentermine 
+Dobutamine 
+Ifosfamide 
+Imipramine 
+Amrinone 
+Indapamide 
+3710
+3711
+Indomethacin 
+Iodipamide 
+halofantrine 
+Penbutolol 
+irbesartan 
+Ribavirin 
+Isocarboxazid 
+Isoetharine 
+Isoflurane 
+adinazolam 
+Isoniazid 
+Pentosan Sulfuric Polyester 
+2-Propanol 
+3777159
+Isoproterenol 
+Guanosine 5'-O-(3-Thiotriphosphate) 
+Isradipine 
+Ketamine 
+Ketoprofen 
+Ketorolac 
+Ketotifen 
+Octreotide 
+guanadrel 
+3857574
+Labetalol 
+lamotrigine 
+lansoprazole 
+Methyldopa 
+lauric acid 
+Tocainide 
+leflunomide 
+letrozole 
+Bezafibrate 
+Leuprolide 
+Nadolol 
+Diltiazem 
+LG 100268 
+39391
+2,5-diaziridinyl-3-(hydroxymethyl)-6-methyl-1,4-benzoquinone 
+Levobunolol 
+lomefloxacin 
+rimexolone 
+3952261
+Loperamide 
+Loratadine 
+Lorazepam 
+Losartan 
+Loxapine 
+2-(4-morpholinyl)-8-phenyl-4H-1-benzopyran-4-one 
+Maprotiline 
+40158
+Mazindol 
+Mecamylamine 
+Meclizine 
+Meclofenamic Acid 
+Buprenorphine 
+Mefenamic Acid 
+Mefloquine 
+Memantine 
+Vitamin K 3 
+mepenzolic acid 
+Meperidine 
+Mephenytoin 
+Mepivacaine 
+4064
+mequitazine 
+Mesalamine 
+Mesoridazine 
+408334
+Vindesine 
+dezocine 
+Metaproterenol 
+Metformin 
+Pentostatin 
+Methadone 
+methantheline 
+Desogestrel 
+3-keto-desogestrel 
+metharbital 
+Methazolamide 
+Methoxsalen 
+Methoxyflurane 
+N-Methylscopolamine 
+Methyclothiazide 
+Methylphenidate 
+methyprylon 
+methixene 
+Metoclopramide 
+Sufentanil 
+Metolazone 
+Metoprolol 
+Metyrapone 
+valrubicin 
+Mexiletine 
+torsemide 
+Mianserin 
+Epirubicin 
+Miconazole 
+Midazolam 
+Midodrine 
+Milrinone 
+41987
+minaprine 
+Minoxidil 
+mirtazapine 
+Mitotane 
+desflurane 
+Mitoxantrone 
+Moclobemide 
+modafinil 
+4286
+4288
+Idarubicin 
+4290
+4310
+4316
+Ipratropium 
+4347
+4357
+Cefonicid 
+Ethylmaleimide 
+WAY 151693 
+4369101
+4369102
+4369103
+AL 6629 
+AL 6619 
+4369343
+sitagliptin 
+4369379
+4369393
+4369394
+4369413
+4369414
+4369442
+4369477
+4369491
+4369496
+tanaproget 
+triacetone triperoxide 
+Paroxetine 
+NAD 
+439154
+S-Adenosylhomocysteine 
+Acetylglucosamine 
+5'-methylthioadenosine 
+Glucosamine 
+acetoacetyl CoA 
+439219
+Norepinephrine 
+439265
+439284
+Glycerylphosphorylcholine 
+Oxytocin 
+Dithioerythritol 
+Inositol 1,4,5-Trisphosphate 
+439492
+Ouabain 
+Bacitracin 
+Fucose 
+439655
+439680
+Fructose 
+methacrylyl-coenzyme A 
+adenosine 2',5'-diphosphate 
+7-methylguanosine-5'-monophosphate 
+P(1),P(5)-di(adenosine-5'-)pentaphosphate 
+adenosine 5'-O-(3-thiotriphosphate) 
+Mimosine 
+440567
+nabumetone 
+Captopril 
+Quinidine 
+Acarbose 
+441185
+Digitoxin 
+Tranylcypromine 
+zolmitriptan 
+Pentazocine 
+441281
+rocuronium 
+hyperforin 
+miglitol 
+etiracetam 
+alpha-Methyltyrosine 
+terconazole 
+canaline 
+Cefoperazone 
+5,6,7,8-tetrahydrobiopterin 
+Staurosporine 
+Practolol 
+N-butyrylhomoserine lactone Plasminogen Activator Inhibitor 2 
+4438
+443932
+Droxidopa 
+amcinonide 
+flumethasone pivalate 
+Bupropion 
+naratriptan 
+Pentagastrin 
+voglibose 
+loteprednol etabonate 
+darifenacin 
+ciclesonide 
+fluticasone 
+444037
+444378
+444389
+444390
+IC 831423 
+5-methyltetrahydrofolate 
+444440
+444451
+444498
+immucillin H 
+444599
+444612
+444617
+444695
+444698
+trichostatin A 
+444763
+444764
+444765
+444766
+Tretinoin 
+444863
+N-Acetylneuraminic Acid 
+Arachidonic Acid 
+nefazodone 
+fumaric acid 
+445010
+445018
+Farnesol 
+445072
+445076
+resveratrol 
+445155
+445246
+octanoyl-coenzyme A 
+445382
+CP 526423 
+RWJ 37947 
+445443
+445456
+CP 403700 
+445463
+AP22408 
+445575
+Ch 80 
+Neostigmine 
+Oleic Acid 
+Uridine Diphosphate N-Acetylglucosamine 
+445707
+445750
+445770
+445784
+445785
+445840
+445856
+445875
+445936
+445940
+445966
+445967
+445993
+Dithiothreitol 
+446113
+cerivastatin 
+446165
+EM-1745 
+446202
+446237
+446238
+446239
+446240
+446241
+446242
+446274
+446275
+446276
+446277
+Eicosapentaenoic Acid 
+446300
+446308
+SR 12813 
+446320
+446336
+446388
+5-(4-benzyloxyphenyl)-4S-(7-phenylheptanoylamino)pentanoic acid 
+446429
+446505
+Mycophenolic Acid 
+446609
+446662
+446665
+SRI-9439 
+SRI-9662 
+446783
+446795
+446800
+446816
+446833
+446871
+446876
+Androstane-3,17-diol 
+4469805
+446986
+446994
+447027
+447055
+4470566
+447076
+1,2-distearoylphosphatidylethanolamine 
+5-methoxy-1,2-dimethyl-3-((4-nitrophenoxy)methyl)indole-4,7-dione 
+447108
+S-hydroxymethylglutathione 
+447182
+4471892
+formycin 
+447229
+447234
+447256
+447271
+447327
+447336
+447371
+447392
+Nicardipine 
+447405
+447411
+447450
+2-butenal 
+447622
+447632
+447634
+447652
+447721
+447725
+447731
+447732
+447733
+447735
+447736
+447815
+4478249
+447837
+447867
+447872
+447873
+GW 3965 
+447954
+447955
+447956
+447958
+447959
+447960
+447961
+447994
+448008
+448009
+448011
+epothilone B 
+N-(4-methoxybenzyl)-N'-(5-nitro-1,3-thiazol-2-yl)urea 
+448024
+448025
+448055
+448117
+448171
+448173
+448235
+448238
+448249
+448288
+448294
+448317
+448384
+448436
+448477
+Nifedipine 
+448535
+448572
+448573
+448575
+448577
+448599
+448605
+448610
+4-hydroxy-1,2,5-oxadiazole-3-carboxylic acid 
+448660
+448661
+448662
+448668
+448768
+448769
+Niflumic Acid 
+448828
+448841
+448889
+448915
+448940
+448942
+448946
+448965
+purvalanol B 
+449088
+449096
+argadin 
+argifin 
+449125
+449146
+449157
+449159
+449164
+449165
+449167
+LFA703 
+449205
+449207
+449209
+449218
+nilutamide 
+449328
+449346
+449366
+449392
+449394
+449462
+nimesulide 
+449555
+449593
+Nimodipine 
+Nisoldipine 
+tartronic acid 
+Nitrazepam 
+Nitrendipine 
+Nitroglycerin 
+decitabine 
+Norfloxacin 
+Nortriptyline 
+6-((3-chloro)anilino)-2-(isopropyl-2-hydroxyethylamino)-9-isopropylpurine 
+NU2058 
+Ofloxacin 
+olanzapine 
+olomoucine 
+Omeprazole 
+Ondansetron 
+Orphenadrine 
+cyclic 3',5'-thymidine monophosphate 2',3'-dideoxy-2',3'-didehydrothymidine monophosphate 
+oxaprozin 
+Oxazepam 
+4630909
+Oxprenolol 
+benoxinate 
+oxybutynin 
+Oxymetazoline 
+oxyphencyclimine 
+tolcapone 
+pamidronate 
+pantoprazole 
+Papaverine 
+Atracurium 
+Pentobarbital 
+Pentoxifylline 
+Perhexiline 
+periciazine 
+Perphenazine 
+phenacemide 
+Phenacetin 
+Ketoconazole 
+Phenindione 
+Pheniramine 
+Phenmetrazine 
+Phenobarbital 
+Phenoxybenzamine 
+Phentermine 
+Goserelin 
+Phenylbutazone 
+Pergolide 
+48033
+Vitamin K 1 
+halobetasol 
+Pindolol 
+pioglitazone 
+pirbuterol 
+Pirenzepine 
+piretanide 
+Polythiazide 
+Prazepam 
+Praziquantel 
+Prazosin 
+alpha-ketoisovalerate 
+Prilocaine 
+Primaquine 
+Primidone 
+Probenecid 
+Procainamide 
+Procaine 
+Prochlorperazine 
+Procyclidine 
+4923
+Promazine 
+Promethazine 
+Propafenone 
+Propantheline 
+proxymetacaine 
+propiomazine 
+Propofol 
+Propranolol 
+Protriptyline 
+Carboplatin 
+Pyridostigmine Bromide 
+Pyrimethamine 
+4995
+quazepam 
+quetiapine 
+alsterpaullone 
+Pipecuronium 
+rabeprazole 
+Nedocromil 
+Raloxifene 
+Didanosine 
+5066
+Riluzole 
+Risperidone 
+rizatriptan 
+rofecoxib 
+ropinirole 
+alpha-ketoglutaric acid 
+Pefloxacin 
+Alfentanil 
+etiron 2-ethyl-2-thiopseudourea 
+salmeterol 
+salicylsalicylic acid 
+5162452
+miglustat 
+SB 220025 
+Scopolamine Hydrobromide 
+arsenic trioxide 
+sevoflurane 
+sibutramine 
+sildenafil 
+indecainide 
+1,2,3,4-tetrahydroisoquinoline-7-sulfonamide 
+prednicarbate 
+risedronic acid 
+Sotalol 
+Sphingosine 
+Quercetin 
+Dinoprostone 
+Epoprostenol 
+5280452
+5280454
+8,11,14-Eicosatrienoic Acid 
+5280780
+Ergocalciferols 
+Rutin 
+alpha-Linolenic Acid 
+Genistein 
+stearic acid 
+Dihydrotachysterol 
+5281021
+montelukast 
+mivacurium 
+olopatadine 
+mycophenolate mofetil 
+entacapone 
+paricalcitol 
+5281106
+fumagillin 
+geldanamycin 
+calcipotriene 
+travoprost 
+5282241
+latanoprost 
+Misoprostol 
+dinoprost tromethamine 
+Triprolidine 
+clocortolone pivalate 
+cis-vaccenic acid 
+Codeine 
+Carboprost carboprost tromethamine 
+Cyproterone 
+dorzolamide 
+Hydrocodone 
+Hydromorphone 
+nabilone 
+Naloxone 
+Oxycodone 
+Oxymorphone 
+Sirolimus 
+topiramate 
+5287415
+5287429
+5287448
+5287453
+5287459
+5287475
+5287476
+5287492
+5287509
+5287536
+5287540
+STX64 compound 
+ONO 6818 
+5287544
+5287610
+5287617
+5287643
+5287668
+allosamizoline 
+5287674
+5287684
+5287728
+5287735
+5287779
+5287799
+5287841
+5287850
+5287864
+5287870
+5287890
+flavopiridol 
+1-palmitoyl-2-linoleoylphosphatidylcholine 
+5287975
+5287989
+5287990
+debromohymenialdisine 
+5288069
+5288075
+5288094
+5288101
+5288103
+5288108
+5288116
+seocalcitol 
+5288160
+5288162
+5288213
+5288222
+N-Formylmethionine 
+5288238
+5288332
+5288366
+4-guanidinobenzoate 
+5288371
+5288453
+5288499
+5288504
+5288527
+5288532
+5288537
+5288564
+3-hydroxy-3-methylglutaryl-coenzyme A 
+SC 74020 
+5288606
+5288609
+5288631
+5288635
+5288669
+KH 1060 
+5288685
+5288688
+5288697
+5288813
+5288814
+Morphine 
+5288834
+5288859
+5288910
+5289007
+5289024
+5289086
+5289108
+5289109
+5289110
+5289111
+5289159
+5289179
+5289214
+5-quinoxalin-6-ylmethylenethiazolidine-2,4-dione 
+5289289
+5289295
+5289310
+5289321
+5289325
+5289389
+5289415
+SU 9516 
+5289420
+5289442
+5289455
+5289469
+5289486
+5289495
+4-(2-(5,6,7,8-tetrahydro-5,5,8,8-tetramethyl-2-naphthalenyl)-1-propenyl)benzoic acid 
+5289504
+5289514
+5289528
+5289529
+5289531
+5289613
+5289615
+phosphoglycolate 
+imatinib 
+dazoxiben 
+varenicline 
+vorinostat 
+bimatoprost 
+Desonide 
+Desoximetasone 
+spirapril 
+Clopenthixol 
+5312154
+Succinylcholine 
+Lovastatin 
+7,8-dimethylalloxazine 
+5326608
+fexaramine 
+5326727
+indirubin-3'-monoxime 
+5326847
+5326876
+5326879
+5326883
+5326888
+5326934
+5326935
+5326960
+5326972
+5327104
+5327131
+5327154
+Sulfamethizole 
+sunitinib 
+5330608
+tolrestat 
+Sulfinpyrazone 
+Dacarbazine 
+53519
+Sulindac 
+Sulfasalazine 
+5353990
+Sulpiride 
+Sumatriptan 
+Suprofen 
+Aluminum 
+Ethylmorphine 
+Levorphanol 
+Levallorphan 
+Dihydromorphine 
+Bleomycin 
+Naltrexone 
+5360630
+Dextromethorphan 
+Suramin 
+Butorphanol 
+progabide 
+Enalapril 
+Lisinopril 
+benazepril 
+Ramipril 
+ridogrel 
+candoxatril 
+batimastat 
+Lutein 
+Enoximone 
+gatifloxacin 
+tazarotene 
+Rifampin 
+5388929
+Temazepam 
+Terazosin 
+5402
+Terbutaline 
+Terfenadine 
+Thalidomide 
+piritrexim 
+levocabastine 
+Thiethylperazine 
+Simvastatin 
+Remoxipride 
+Thioridazine 
+Leucovorin 
+5459363
+5459373
+glycineamide ribonucleotide 
+Vitamin B 12 
+Heroin 
+remikiren 
+telithromycin 
+tiaprofenic acid 
+Pravastatin 
+Ticlopidine 
+cabergoline 
+bambuterol 
+treprostinil 
+5478838
+5478865
+atomoxetine 
+trandolapril 
+pregabalin 
+tizanidine 
+tegaserod 
+tiotropium 
+alvimopan 
+quinapril 
+aliskiren 
+5494411
+5494413
+olomoucine II 
+2-tert-butyl-9-fluoro-3,6-dihydro-7H-benz(h)imidazo(4,5-f)isoquinoline-7-one 
+motuporin 
+5494439
+5494440
+5496599
+5496736
+Tolazamide 
+Tolazoline 
+Tolbutamide 
+Tolmetin 
+Mifepristone 
+Tranexamic Acid 
+Itraconazole 
+Trazodone 
+5538
+Triamterene 
+Triazolam 
+Trichlormethiazide 
+Trifluoperazine 
+Triflupromazine 
+Trihexyphenidyl 
+Trimeprazine 
+Trimethadione 
+Trimethoprim 
+Trimetrexate 
+Trimipramine 
+Tripelennamine 
+Fosinopril 
+troglitazone 
+Tropicamide 
+5596
+bicalutamide 
+Cilazapril 
+fosphenytoin 
+6-Aminocaproic Acid 
+venlafaxine 
+Vigabatrin 
+567
+WHI P180 
+ranolazine 
+Dihematoporphyrin Ether 
+zafirlukast 
+zaleplon 
+FR 74366 
+zolpidem 
+zonisamide 
+zopiclone 
+Finasteride 
+Dexamethasone 
+imiquimod 
+Oxyphenonium 
+Corticosterone 
+Hydrocortisone 
+Prednisolone 
+Estriol 
+Estradiol 
+Cocaine 
+pemirolast 
+Reserpine 
+Phentolamine 
+5785
+Floxuridine 
+Glucose 
+3,3',5-triiodothyroacetic acid 
+Epinephrine 
+Thyroxine 
+Dextroamphetamine 
+Spironolactone 
+Aldosterone 
+Pentolinium Tartrate 
+Penicillamine 
+Creatine 
+Cysteine 
+Prednisone 
+Estrone 
+Paramethasone 
+Oxandrolone 
+Etiocholanolone 
+Dehydroepiandrosterone 
+NADP 
+Metaraminol 
+Pilocarpine 
+Triiodothyronine 
+Ergoloid Mesylates 
+593
+Isoflurophate 
+Alanine 
+Serine 
+Felypressin 
+Adenosine Triphosphate 
+Aspartic Acid 
+Glutamine 
+Lysine 
+demecarium bromide 
+esmolol 
+Vincristine 
+Physostigmine 
+pramipexol 
+Sucrose 
+Ethinyl Estradiol 
+5994
+Tubocurarine 
+nateglinide 
+Apomorphine 
+Testosterone 
+sertindole 
+adapalene 
+doxacurium 
+Tetrabenazine 
+exemestane 
+Adenosine Diphosphate 
+Cephalothin 
+Uridine Monophosphate 
+Uridine Diphosphate 
+Folic Acid 
+Phenylephrine 
+sparfloxacin 
+Levodopa 
+zileuton 
+Tyrosine 
+Cysteamine 
+enalkiren 
+clopidogrel 
+tiagabine 
+dolasetron mesylate 
+Mibefradil 
+606974
+Topotecan 
+bromfenac 
+gemcitabine 
+ibutilide 
+tolterodine 
+vinorelbine 
+Saquinavir 
+arbutamine 
+aripiprazole 
+remifentanil 
+peldesine 
+Methoxamine 
+atorvastatin 
+Adenosine Monophosphate 
+duloxetine 
+irinotecan 
+pemetrexed 
+valsartan 
+ibandronic acid 
+ziprasidone 
+60879
+N,N-Dimethyltryptamine 
+tasosartan 
+saprisartan potassium 
+tiludronic acid 
+tirofiban 
+capecitabine 
+Adenosine 
+Cloxacillin 
+6102812
+611002
+Thioctic Acid 
+diphemanil methylsulfate 
+Androstenedione 
+Cytidine Monophosphate 
+Uridine Triphosphate 
+Methionine 
+Phenylalanine 
+Colchicine 
+3-methylfentanyl 
+Fluocinolone Acetonide 
+carfentanil 
+6221
+62296
+Norethindrone 
+6236
+1-(1-phenylcyclohexyl)pyrrolidine 
+62452
+Cytarabine 
+Trifluridine 
+Ornithine 
+Asparagine 
+Histidine 
+1-(1-(2-thienyl)cyclohexyl)piperidine tenocyclidine 
+Urofollitropin 
+octyl-beta-D-glucoside 
+Valine 
+Threonine 
+cisatracurium 
+Mestranol 
+trovafloxacin 
+Budesonide 
+Tryptophan 
+Isoleucine 
+quinethazone 
+Arginine 
+6323183
+6323236
+6323262
+6323264
+6323266
+6323374
+6323397
+6323421
+6323426
+6323452
+6323481
+Rifabutin 
+6323540
+6324770
+O,O-diisopropyl phosphite 
+6327654
+Auranofin 
+balsalazide 
+alclometasone dipropionate 
+fondaparinux 
+Carbenoxolone 
+methylphosphinic acid 
+tetramethylammonium 
+6383950
+tert-Butyl Alcohol 
+6398469
+6398473
+6398525
+Calcifediol 
+Cyclosporine 
+Sirolimus 
+cinalukast 
+Acitretin 
+6439133
+desoxyepothilone B 
+3-hydroxybutyryl-coenzyme A 
+everolimus 
+iloprost phenacyl ester 
+Fluoxymesterone 
+pimecrolimus 
+Phencyclidine 
+Atropine 
+butobarbital 
+Prostaglandin D2 
+thymidine 5'-triphosphate 
+Oseltamivir 
+2'-deoxyuridylic acid 
+5-dimethylaminonaphthalene-1-sulfonamide 
+norvaline 
+AICA ribonucleotide 
+N-acetylserine 
+4-mercuriphenylsulfonate 
+653
+2-deoxy-2,3-dehydro-N-acetylneuraminic acid 
+Glutathione Disulfide 
+3'-azido-3'-deoxythymidine 5'phosphate 
+norgestimate 
+histamine phosphate 
+tetraiodothyroacetic acid 
+656510
+trilostane 
+lubiprostone 
+656932
+656949
+656957
+656968
+656969
+2-(4-chlorophenyl)-5-quinoxalinecarboxamide 
+657077
+657081
+657095
+657096
+657108
+657135
+Propylthiouracil 
+milnacipran 
+reboxetine 
+lercanidipine 
+repaglinide 
+telmisartan 
+homatropine methylbromide 
+octotropine methylbromide 
+Doxepin 
+6-Mercaptopurine 
+2-(N-cyclohexylamino)ethanesulfonic acid 
+6691
+Cyclizine 
+buclizine 
+Methylprednisolone 
+67425
+Riboflavin 
+Cystine 
+Dimethyl Sulfoxide 
+Guanosine 
+5'-Guanylic Acid 
+Dopamine 
+duroquinone 
+coproporphyrin I 
+Guanosine Triphosphate 
+Benztropine 
+Brompheniramine 
+6852220
+6858209
+methylmercury II 
+Medetomidine 
+Sertraline 
+zoledronic acid 
+Isosorbide Dinitrate 
+Phosphoserine 
+brinzolamide 
+Procaterol 
+drospirenone 
+Acetyldigitoxins 
+glycine amide 
+cefdinir 
+gadobenic acid 
+temsirolimus 
+udenafil 
+6950143
+N-acetylhistamine 
+Ethanolamine 
+Ethanol 
+Pseudoephedrine 
+Diethylpropion 
+Isatin 
+morpholinopropane sulfonic acid 
+Proflavine 
+Flavin Mononucleotide 
+71077
+acamprosate 
+cyclohexylalanine 
+ropivacaine 
+nebivolol 
+vapreotide 
+dofetilide 
+icatibant 
+Razoxane 
+Nordihydroguaiaretic Acid 
+diflorasone diacetate 
+Phenylalanine 
+carbetocin 
+terlipressin 
+bestatin 
+7-hydroxystaurosporine 
+hesperetin 
+Methotrimeprazine 
+2-chlorophenol 
+Cysteic Acid 
+73342
+Pyrrolidonecarboxylic Acid 
+monoethyl phosphate ethyl dihydrogen phosphate 
+Atovaquone 
+Glycine 
+Glycerol 
+glycolic acid 
+Guanine 
+benzonatate 
+4-iodopyrazole 
+772
+Betazole 
+1-benzylimidazole 
+rivastigmine 
+frovatriptan 
+eletriptan 
+rosiglitazone 
+78798
+12-hydroxydodecanoic acid 
+794323
+imidazole 
+Cyclohexanols 
+3-methylpyridine 
+79718
+alpha-aminobutyric acid 
+n-hexane 
+1,4-butanediol 
+N-benzylformamide 
+dodecyltrimethylammonium 
+TES 
+bexarotene 
+flunisolide 
+Ergotamine 
+Methylergonovine 
+Acetylglucosamine 
+Phenformin 
+Mephobarbital 
+paramethadione 
+diphenylacetic acid 
+Framycetin 
+cevimeline 
+Lactose 
+84815
+85
+anthra(1,9-cd)pyrazol-6(2H)-one 
+Quinine 
+deserpidine 
+Leucine 
+chloroprocaine 
+Uridine Diphosphate Glucose 
+3,5-diiodosalicylic acid 
+Azaguanine 
+malonic acid 
+8747
+N,N-bis(2-hydroxyethyl)glycine 
+Coenzyme A 
+2-acetamido-2-deoxy-D-glucono-(1,5)-lactone 
+888
+Inositol 
+anileridine 
+Pregnenolone 
+Melatonin 
+Yohimbine 
+Guanosine Diphosphate 
+9028
+90334
+Methohexital 
+Quinestrol 
+Dydrogesterone 
+9052
+moexipril 
+5,6,7,8-tetrahydrofolic acid 
+5'-adenylyl (beta,gamma-methylene)diphosphonate 
+alpha,beta-methyleneadenosine 5'-triphosphate 
+levobupivacaine 
+1,2,4-triazole 
+Ethynodiol Diacetate 
+Ephedrine 
+guanosine 5'-(alpha,beta-methylene)triphosphate 5'-guanylylmethylenebisphosphonate 
+Niacinamide 
+Niacin 
+bortezomib 
+Flunarizine 
+94191
+942
+Aminophylline 
+hexafluorenium 
+Azacitidine 
+9543424
+9543479
+9547884
+glymidine 
+ximelagatran 
+1-(3-(cyclopentyloxy)-4-methoxyphenyl)ethanone-(E)-O-(aminocarbonyl)oxime 
+Fluocinonide 
+Galantamine 
+Orotic Acid 
+Methysergide 
+eszopiclone 
+Thymidine Monophosphate 
+97032
+Oxalic Acid 
+5-iodotubercidin 
+Oxamic Acid 
+Citrulline 
+S-(2,4-dinitrophenyl)glutathione 
+Betamethasone 
+4-nitrophenol 
+Palmitic Acid 
+Cyanamide 
+Fluorometholone 
+Nandrolone 
+9908
+9919
