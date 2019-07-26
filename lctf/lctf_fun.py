@@ -42,10 +42,10 @@ import numpy as np
 from sklearn.decomposition import PCA
 
 
-#X1 = np.loadtxt('Xmedical.txt',delimiter=',').astype('float32')
-#Y = np.loadtxt('Ymedical.txt',delimiter=',').astype('float32')
-X1 = np.loadtxt('Xyeast.txt',delimiter=',').astype('float32')
-Y = np.loadtxt('Yyeast.txt',delimiter=',').astype('float32')
+#X1 = np.loadtxt('data/Xmedical.txt',delimiter=',').astype('float32')
+#Y = np.loadtxt('data/Ymedical.txt',delimiter=',').astype('float32')
+X1 = np.loadtxt('data/Xyeast.txt',delimiter=',').astype('float32')
+Y = np.loadtxt('data/Yyeast.txt',delimiter=',').astype('float32')
 
 
 import random
