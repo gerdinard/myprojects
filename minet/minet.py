@@ -29,7 +29,7 @@ X2 : matrix of shape = [n_samples, n_features]
 (i.e., second feature matrix)
         
 Y : matrix of shape = [n_samples, n_outputs]
-(i.e., the label/output matrix) In case of unseupervised learning, nothing is given as input.
+(i.e., the label/output matrix) In case of unsupervised learning, nothing is given as input.
 
 
 n_est: the number of trees (default=100)
