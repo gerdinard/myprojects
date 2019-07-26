@@ -31,7 +31,7 @@ test2 = list(set(range(X2.shape[0])) - set(train))
 Xtrain = X1[train]
 Xtest = X1[test]
 Xtrain2 = X2[train2]
-Xtest2 = X1[test2]
+Xtest2 = X2[test2]
 Ytrain = Y[train][:,train2]
 Ytest = Y[test][:,test2]
 
