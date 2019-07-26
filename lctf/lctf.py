@@ -25,7 +25,7 @@ n_est: the number of trees (default=100)
 
 stop_crit: the minimum_samples_per_leaf stopping criterion used (default=5)
 
-p: A float number that controls the node filtering rocess. The nodes containing more than p*n_samples are discarder. 
+p: A float number that controls the node filtering process. The nodes containing more than p*n_samples are discarder. 
 
 
 
@@ -83,7 +83,7 @@ class LCTF():
 
     
     def transform(self, Xtest):
-        """Using the fitted model to generating features for new data.  
+        """Using the fitted model to generate features for new data.  
         
         Parameters
         ----------
