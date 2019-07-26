@@ -24,7 +24,7 @@ test = list(set(range(X1.shape[0])) - set(train))
 import random
 random.seed(0)
 train2 = random.sample(range(X2.shape[0]), int(0.7*X2.shape[0]))
-test2 = list(set(range(X2.shape[0])) - set(train))
+test2 = list(set(range(X2.shape[0])) - set(train2))
 
 
 
