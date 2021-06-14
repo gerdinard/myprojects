@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: u0106589
+@author: Konstantinos Pliakos
 """
 
 

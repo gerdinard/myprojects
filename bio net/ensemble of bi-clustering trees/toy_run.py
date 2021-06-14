@@ -2,7 +2,12 @@
 """
 Created on Mon Jan 25 00:15:32 2021
 
-@author: u0106589
+@author: Konstantinos Pliakos
+
+This is a toy script.
+Reference:
+Pliakos, K., Vens, C. Network inference with ensembles of bi-clustering trees. 
+BMC Bioinformatics 20, 525 (2019). https://doi.org/10.1186/s12859-019-3104-y 
 """
 
 import numpy as np
